@@ -38,6 +38,6 @@ Email: `danny` at `denenberg` dot `com`
 
 ## some denenbergs i'm related to
 
-[Steve Denenberg](http://www.facialsurgery.com/PPghome_page) (this [article](https://www.omaha.com/news/kelly-steal-this-doctor-s-photos-and-you-may-pay/article_30494ded-c43e-5348-a0a0-4c42a308a2a1.html) is a gem)
-[Larry Denenberg](https://www.linkedin.com/in/larrydenenberg)
-[Herb Denenberg](https://en.wikipedia.org/wiki/Herb_Denenberg)
+- [Steve Denenberg](http://www.facialsurgery.com/PPghome_page) (this [article](https://www.omaha.com/news/kelly-steal-this-doctor-s-photos-and-you-may-pay/article_30494ded-c43e-5348-a0a0-4c42a308a2a1.html) is a gem)
+- [Larry Denenberg](https://www.linkedin.com/in/larrydenenberg)
+- [Herb Denenberg](https://en.wikipedia.org/wiki/Herb_Denenberg)

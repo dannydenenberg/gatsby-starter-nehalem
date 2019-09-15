@@ -1,14 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `nehalem-starter`,
+    title: `Danny Denenberg`,
     siteUrl: `https://nehalem.netlify.com`,
     description: `About %TOPICS%`,
-    topics: [
-      `node.js`,
-      `database-client relationships`,
-      `typescript`,
-      `javascript`
-    ],
+    topics: [`node.js`, `typescript`, `javascript`],
     menu: [
       {
         name: "Home",
@@ -27,7 +22,7 @@ module.exports = {
     ],
     search: true,
     author: {
-      name: `nehalem`,
+      name: `Danny Denenberg`,
       description: `I'm <a href="/about">Danny</a>, the guy behind this site - a blog about software development, technology and all that kind of geeky stuff.`,
       social: {
         facebook: ``,
